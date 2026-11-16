@@ -11,6 +11,6 @@ uoriknow/
 │   └── .env
 └── frontend/
     ├── index.html
-    ├── style.css
+    ├── makeup.css
     └── script.js
 ```
